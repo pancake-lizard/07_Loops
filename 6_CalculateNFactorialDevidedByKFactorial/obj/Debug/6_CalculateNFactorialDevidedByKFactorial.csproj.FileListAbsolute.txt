@@ -1,0 +1,6 @@
+D:\SoftUni\7\Homework\Loops\6_CalculateNFactorialDevidedByKFactorial\bin\Debug\6_CalculateNFactorialDevidedByKFactorial.exe.config
+D:\SoftUni\7\Homework\Loops\6_CalculateNFactorialDevidedByKFactorial\bin\Debug\6_CalculateNFactorialDevidedByKFactorial.exe
+D:\SoftUni\7\Homework\Loops\6_CalculateNFactorialDevidedByKFactorial\bin\Debug\6_CalculateNFactorialDevidedByKFactorial.pdb
+D:\SoftUni\7\Homework\Loops\6_CalculateNFactorialDevidedByKFactorial\obj\Debug\6_CalculateNFactorialDevidedByKFactorial.csprojResolveAssemblyReference.cache
+D:\SoftUni\7\Homework\Loops\6_CalculateNFactorialDevidedByKFactorial\obj\Debug\6_CalculateNFactorialDevidedByKFactorial.exe
+D:\SoftUni\7\Homework\Loops\6_CalculateNFactorialDevidedByKFactorial\obj\Debug\6_CalculateNFactorialDevidedByKFactorial.pdb

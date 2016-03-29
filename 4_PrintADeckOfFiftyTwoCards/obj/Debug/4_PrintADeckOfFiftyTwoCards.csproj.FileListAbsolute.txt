@@ -1,0 +1,5 @@
+D:\SoftUni\7\Homework\Loops\4_PrintADeckOfFiftyTwoCards\bin\Debug\4_PrintADeckOfFiftyTwoCards.exe.config
+D:\SoftUni\7\Homework\Loops\4_PrintADeckOfFiftyTwoCards\bin\Debug\4_PrintADeckOfFiftyTwoCards.exe
+D:\SoftUni\7\Homework\Loops\4_PrintADeckOfFiftyTwoCards\bin\Debug\4_PrintADeckOfFiftyTwoCards.pdb
+D:\SoftUni\7\Homework\Loops\4_PrintADeckOfFiftyTwoCards\obj\Debug\4_PrintADeckOfFiftyTwoCards.exe
+D:\SoftUni\7\Homework\Loops\4_PrintADeckOfFiftyTwoCards\obj\Debug\4_PrintADeckOfFiftyTwoCards.pdb

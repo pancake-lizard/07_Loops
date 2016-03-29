@@ -1,0 +1,5 @@
+D:\SoftUni\7\Homework\Loops\14_DecimalToBinaryNumber\bin\Debug\14_DecimalToBinaryNumber.exe.config
+D:\SoftUni\7\Homework\Loops\14_DecimalToBinaryNumber\bin\Debug\14_DecimalToBinaryNumber.exe
+D:\SoftUni\7\Homework\Loops\14_DecimalToBinaryNumber\bin\Debug\14_DecimalToBinaryNumber.pdb
+D:\SoftUni\7\Homework\Loops\14_DecimalToBinaryNumber\obj\Debug\14_DecimalToBinaryNumber.exe
+D:\SoftUni\7\Homework\Loops\14_DecimalToBinaryNumber\obj\Debug\14_DecimalToBinaryNumber.pdb

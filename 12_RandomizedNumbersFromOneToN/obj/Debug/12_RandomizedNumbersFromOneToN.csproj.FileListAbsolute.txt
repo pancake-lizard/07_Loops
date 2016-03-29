@@ -1,0 +1,5 @@
+D:\SoftUni\7\Homework\Loops\12_RandomizedNumbersFromOneToN\bin\Debug\12_RandomizedNumbersFromOneToN.exe.config
+D:\SoftUni\7\Homework\Loops\12_RandomizedNumbersFromOneToN\bin\Debug\12_RandomizedNumbersFromOneToN.exe
+D:\SoftUni\7\Homework\Loops\12_RandomizedNumbersFromOneToN\bin\Debug\12_RandomizedNumbersFromOneToN.pdb
+D:\SoftUni\7\Homework\Loops\12_RandomizedNumbersFromOneToN\obj\Debug\12_RandomizedNumbersFromOneToN.exe
+D:\SoftUni\7\Homework\Loops\12_RandomizedNumbersFromOneToN\obj\Debug\12_RandomizedNumbersFromOneToN.pdb

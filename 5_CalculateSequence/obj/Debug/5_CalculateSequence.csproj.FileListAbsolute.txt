@@ -1,0 +1,5 @@
+D:\SoftUni\7\Homework\Loops\5_CalculateSequence\bin\Debug\5_CalculateSequence.exe.config
+D:\SoftUni\7\Homework\Loops\5_CalculateSequence\bin\Debug\5_CalculateSequence.exe
+D:\SoftUni\7\Homework\Loops\5_CalculateSequence\bin\Debug\5_CalculateSequence.pdb
+D:\SoftUni\7\Homework\Loops\5_CalculateSequence\obj\Debug\5_CalculateSequence.exe
+D:\SoftUni\7\Homework\Loops\5_CalculateSequence\obj\Debug\5_CalculateSequence.pdb

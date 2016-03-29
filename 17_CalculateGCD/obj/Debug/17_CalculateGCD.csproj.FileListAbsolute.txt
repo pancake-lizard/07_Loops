@@ -1,0 +1,5 @@
+D:\SoftUni\7\Homework\Loops\17_CalculateGCD\bin\Debug\17_CalculateGCD.exe.config
+D:\SoftUni\7\Homework\Loops\17_CalculateGCD\bin\Debug\17_CalculateGCD.exe
+D:\SoftUni\7\Homework\Loops\17_CalculateGCD\bin\Debug\17_CalculateGCD.pdb
+D:\SoftUni\7\Homework\Loops\17_CalculateGCD\obj\Debug\17_CalculateGCD.exe
+D:\SoftUni\7\Homework\Loops\17_CalculateGCD\obj\Debug\17_CalculateGCD.pdb

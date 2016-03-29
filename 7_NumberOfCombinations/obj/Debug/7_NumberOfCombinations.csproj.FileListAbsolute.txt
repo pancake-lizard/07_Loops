@@ -1,0 +1,6 @@
+D:\SoftUni\7\Homework\Loops\7_NumberOfCombinations\bin\Debug\7_NumberOfCombinations.exe.config
+D:\SoftUni\7\Homework\Loops\7_NumberOfCombinations\bin\Debug\7_NumberOfCombinations.exe
+D:\SoftUni\7\Homework\Loops\7_NumberOfCombinations\bin\Debug\7_NumberOfCombinations.pdb
+D:\SoftUni\7\Homework\Loops\7_NumberOfCombinations\obj\Debug\7_NumberOfCombinations.csprojResolveAssemblyReference.cache
+D:\SoftUni\7\Homework\Loops\7_NumberOfCombinations\obj\Debug\7_NumberOfCombinations.exe
+D:\SoftUni\7\Homework\Loops\7_NumberOfCombinations\obj\Debug\7_NumberOfCombinations.pdb

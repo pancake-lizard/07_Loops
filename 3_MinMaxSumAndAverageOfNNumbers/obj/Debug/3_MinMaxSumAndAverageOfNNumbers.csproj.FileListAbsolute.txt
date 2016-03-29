@@ -1,0 +1,5 @@
+D:\SoftUni\7\Homework\Loops\3_MinMaxSumAndAverageOfNNumbers\bin\Debug\3_MinMaxSumAndAverageOfNNumbers.exe.config
+D:\SoftUni\7\Homework\Loops\3_MinMaxSumAndAverageOfNNumbers\bin\Debug\3_MinMaxSumAndAverageOfNNumbers.exe
+D:\SoftUni\7\Homework\Loops\3_MinMaxSumAndAverageOfNNumbers\bin\Debug\3_MinMaxSumAndAverageOfNNumbers.pdb
+D:\SoftUni\7\Homework\Loops\3_MinMaxSumAndAverageOfNNumbers\obj\Debug\3_MinMaxSumAndAverageOfNNumbers.exe
+D:\SoftUni\7\Homework\Loops\3_MinMaxSumAndAverageOfNNumbers\obj\Debug\3_MinMaxSumAndAverageOfNNumbers.pdb

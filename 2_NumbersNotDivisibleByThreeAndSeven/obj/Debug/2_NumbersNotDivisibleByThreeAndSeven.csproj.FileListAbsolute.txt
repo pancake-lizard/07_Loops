@@ -1,0 +1,5 @@
+D:\SoftUni\7\Homework\Loops\2_NumbersNotDivisibleByThreeAndSeven\bin\Debug\2_NumbersNotDivisibleByThreeAndSeven.exe.config
+D:\SoftUni\7\Homework\Loops\2_NumbersNotDivisibleByThreeAndSeven\bin\Debug\2_NumbersNotDivisibleByThreeAndSeven.exe
+D:\SoftUni\7\Homework\Loops\2_NumbersNotDivisibleByThreeAndSeven\bin\Debug\2_NumbersNotDivisibleByThreeAndSeven.pdb
+D:\SoftUni\7\Homework\Loops\2_NumbersNotDivisibleByThreeAndSeven\obj\Debug\2_NumbersNotDivisibleByThreeAndSeven.exe
+D:\SoftUni\7\Homework\Loops\2_NumbersNotDivisibleByThreeAndSeven\obj\Debug\2_NumbersNotDivisibleByThreeAndSeven.pdb
